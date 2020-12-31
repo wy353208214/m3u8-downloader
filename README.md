@@ -59,3 +59,7 @@ python setup.py py2app -A
 python setup.py py2app --packages=wx
 ```
 不指定`--packages=wx`选项的话，启动的时候会报错
+
+
+#### 预览效果
+![image](https://imglf3.lf127.net/img/c3pZZ1VJcCsyMGdpZlJiV1lFblRVTWVDRHY0N1EybU54S1JjQ2NNS3ZkdWRVNFowM2tWQXF3PT0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0)
